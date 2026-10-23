@@ -1,0 +1,11 @@
+id_producto,nombre_producto,sucursal,stock,precio_unitario
+1,Smartphone Galaxy,San Salvador,45,300.00
+2,Smartwatch Pro,San Salvador,30,120.00
+3,Auriculares Inalámbricos,Santa Ana,60,50.00
+4,Batería Portátil 20000mAh,Santa Ana,50,40.00
+5,Consola de Videojuegos,San Miguel,15,450.00
+6,Control Inalámbrico,San Miguel,40,60.00
+7,Cámara Web HD,La Libertad,25,85.00
+8,Micrófono USB Streaming,La Libertad,20,95.00
+9,Pantalla Smart TV 32",Sonsonate,18,210.00
+10,Barra de Sonido,Sonsonate,22,130.00
